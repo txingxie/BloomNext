@@ -1,6 +1,6 @@
 # BloomNext: Early Prediction of Harmful Algal Blooms
 
-BloomNext is a machine learning project for predicting harmful algal blooms caused by *Karenia brevis* in Florida coastal waters.
+BloomNext is a framework for predicting harmful algal blooms caused by *Karenia brevis* in Florida coastal waters.
 
 ## Overview
 
